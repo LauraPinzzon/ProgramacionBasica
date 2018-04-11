@@ -70,3 +70,11 @@ marte (peso * 3.7) / 9.8
         variable = parseInt(variable); // convierte textos o numeros flotantes a numeros enteros//
 
         var usuario = prompt("cual es tu peso?") // almacena valores que el mismo usuario digita //
+
+
+# FLUJO Y CONDICIONES
+
+* En JavaScript 
+        * un = es para asignar
+        * el == es para comparar
+        
